@@ -1,0 +1,16 @@
+C:\C#KAMP\KampIntro\MyDictionary\MyDictionary\bin\Debug\net5.0\MyDictionary.exe
+C:\C#KAMP\KampIntro\MyDictionary\MyDictionary\bin\Debug\net5.0\MyDictionary.deps.json
+C:\C#KAMP\KampIntro\MyDictionary\MyDictionary\bin\Debug\net5.0\MyDictionary.runtimeconfig.json
+C:\C#KAMP\KampIntro\MyDictionary\MyDictionary\bin\Debug\net5.0\MyDictionary.runtimeconfig.dev.json
+C:\C#KAMP\KampIntro\MyDictionary\MyDictionary\bin\Debug\net5.0\MyDictionary.dll
+C:\C#KAMP\KampIntro\MyDictionary\MyDictionary\bin\Debug\net5.0\ref\MyDictionary.dll
+C:\C#KAMP\KampIntro\MyDictionary\MyDictionary\bin\Debug\net5.0\MyDictionary.pdb
+C:\C#KAMP\KampIntro\MyDictionary\MyDictionary\obj\Debug\net5.0\MyDictionary.csproj.AssemblyReference.cache
+C:\C#KAMP\KampIntro\MyDictionary\MyDictionary\obj\Debug\net5.0\MyDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#KAMP\KampIntro\MyDictionary\MyDictionary\obj\Debug\net5.0\MyDictionary.AssemblyInfoInputs.cache
+C:\C#KAMP\KampIntro\MyDictionary\MyDictionary\obj\Debug\net5.0\MyDictionary.AssemblyInfo.cs
+C:\C#KAMP\KampIntro\MyDictionary\MyDictionary\obj\Debug\net5.0\MyDictionary.csproj.CoreCompileInputs.cache
+C:\C#KAMP\KampIntro\MyDictionary\MyDictionary\obj\Debug\net5.0\MyDictionary.dll
+C:\C#KAMP\KampIntro\MyDictionary\MyDictionary\obj\Debug\net5.0\ref\MyDictionary.dll
+C:\C#KAMP\KampIntro\MyDictionary\MyDictionary\obj\Debug\net5.0\MyDictionary.pdb
+C:\C#KAMP\KampIntro\MyDictionary\MyDictionary\obj\Debug\net5.0\MyDictionary.genruntimeconfig.cache
