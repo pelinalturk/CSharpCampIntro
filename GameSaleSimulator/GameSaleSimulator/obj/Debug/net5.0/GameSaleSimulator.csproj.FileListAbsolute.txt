@@ -1,0 +1,16 @@
+C:\C#KAMP\KampIntro\GameSaleSimulator\GameSaleSimulator\bin\Debug\net5.0\GameSaleSimulator.exe
+C:\C#KAMP\KampIntro\GameSaleSimulator\GameSaleSimulator\bin\Debug\net5.0\GameSaleSimulator.deps.json
+C:\C#KAMP\KampIntro\GameSaleSimulator\GameSaleSimulator\bin\Debug\net5.0\GameSaleSimulator.runtimeconfig.json
+C:\C#KAMP\KampIntro\GameSaleSimulator\GameSaleSimulator\bin\Debug\net5.0\GameSaleSimulator.runtimeconfig.dev.json
+C:\C#KAMP\KampIntro\GameSaleSimulator\GameSaleSimulator\bin\Debug\net5.0\GameSaleSimulator.dll
+C:\C#KAMP\KampIntro\GameSaleSimulator\GameSaleSimulator\bin\Debug\net5.0\ref\GameSaleSimulator.dll
+C:\C#KAMP\KampIntro\GameSaleSimulator\GameSaleSimulator\bin\Debug\net5.0\GameSaleSimulator.pdb
+C:\C#KAMP\KampIntro\GameSaleSimulator\GameSaleSimulator\obj\Debug\net5.0\GameSaleSimulator.csproj.AssemblyReference.cache
+C:\C#KAMP\KampIntro\GameSaleSimulator\GameSaleSimulator\obj\Debug\net5.0\GameSaleSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#KAMP\KampIntro\GameSaleSimulator\GameSaleSimulator\obj\Debug\net5.0\GameSaleSimulator.AssemblyInfoInputs.cache
+C:\C#KAMP\KampIntro\GameSaleSimulator\GameSaleSimulator\obj\Debug\net5.0\GameSaleSimulator.AssemblyInfo.cs
+C:\C#KAMP\KampIntro\GameSaleSimulator\GameSaleSimulator\obj\Debug\net5.0\GameSaleSimulator.csproj.CoreCompileInputs.cache
+C:\C#KAMP\KampIntro\GameSaleSimulator\GameSaleSimulator\obj\Debug\net5.0\GameSaleSimulator.dll
+C:\C#KAMP\KampIntro\GameSaleSimulator\GameSaleSimulator\obj\Debug\net5.0\ref\GameSaleSimulator.dll
+C:\C#KAMP\KampIntro\GameSaleSimulator\GameSaleSimulator\obj\Debug\net5.0\GameSaleSimulator.pdb
+C:\C#KAMP\KampIntro\GameSaleSimulator\GameSaleSimulator\obj\Debug\net5.0\GameSaleSimulator.genruntimeconfig.cache
