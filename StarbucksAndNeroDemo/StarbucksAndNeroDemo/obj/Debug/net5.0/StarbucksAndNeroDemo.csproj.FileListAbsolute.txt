@@ -1,0 +1,15 @@
+C:\C#KAMP\KampIntro\StarbucksAndNeroDemo\StarbucksAndNeroDemo\bin\Debug\net5.0\StarbucksAndNeroDemo.exe
+C:\C#KAMP\KampIntro\StarbucksAndNeroDemo\StarbucksAndNeroDemo\bin\Debug\net5.0\StarbucksAndNeroDemo.deps.json
+C:\C#KAMP\KampIntro\StarbucksAndNeroDemo\StarbucksAndNeroDemo\bin\Debug\net5.0\StarbucksAndNeroDemo.runtimeconfig.json
+C:\C#KAMP\KampIntro\StarbucksAndNeroDemo\StarbucksAndNeroDemo\bin\Debug\net5.0\StarbucksAndNeroDemo.runtimeconfig.dev.json
+C:\C#KAMP\KampIntro\StarbucksAndNeroDemo\StarbucksAndNeroDemo\bin\Debug\net5.0\StarbucksAndNeroDemo.dll
+C:\C#KAMP\KampIntro\StarbucksAndNeroDemo\StarbucksAndNeroDemo\bin\Debug\net5.0\ref\StarbucksAndNeroDemo.dll
+C:\C#KAMP\KampIntro\StarbucksAndNeroDemo\StarbucksAndNeroDemo\bin\Debug\net5.0\StarbucksAndNeroDemo.pdb
+C:\C#KAMP\KampIntro\StarbucksAndNeroDemo\StarbucksAndNeroDemo\obj\Debug\net5.0\StarbucksAndNeroDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#KAMP\KampIntro\StarbucksAndNeroDemo\StarbucksAndNeroDemo\obj\Debug\net5.0\StarbucksAndNeroDemo.AssemblyInfoInputs.cache
+C:\C#KAMP\KampIntro\StarbucksAndNeroDemo\StarbucksAndNeroDemo\obj\Debug\net5.0\StarbucksAndNeroDemo.AssemblyInfo.cs
+C:\C#KAMP\KampIntro\StarbucksAndNeroDemo\StarbucksAndNeroDemo\obj\Debug\net5.0\StarbucksAndNeroDemo.csproj.CoreCompileInputs.cache
+C:\C#KAMP\KampIntro\StarbucksAndNeroDemo\StarbucksAndNeroDemo\obj\Debug\net5.0\StarbucksAndNeroDemo.dll
+C:\C#KAMP\KampIntro\StarbucksAndNeroDemo\StarbucksAndNeroDemo\obj\Debug\net5.0\ref\StarbucksAndNeroDemo.dll
+C:\C#KAMP\KampIntro\StarbucksAndNeroDemo\StarbucksAndNeroDemo\obj\Debug\net5.0\StarbucksAndNeroDemo.pdb
+C:\C#KAMP\KampIntro\StarbucksAndNeroDemo\StarbucksAndNeroDemo\obj\Debug\net5.0\StarbucksAndNeroDemo.genruntimeconfig.cache
