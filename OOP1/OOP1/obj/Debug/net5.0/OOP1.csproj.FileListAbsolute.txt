@@ -1,0 +1,16 @@
+C:\C#KAMP\KampIntro\OOP1\OOP1\bin\Debug\net5.0\OOP1.exe
+C:\C#KAMP\KampIntro\OOP1\OOP1\bin\Debug\net5.0\OOP1.deps.json
+C:\C#KAMP\KampIntro\OOP1\OOP1\bin\Debug\net5.0\OOP1.runtimeconfig.json
+C:\C#KAMP\KampIntro\OOP1\OOP1\bin\Debug\net5.0\OOP1.runtimeconfig.dev.json
+C:\C#KAMP\KampIntro\OOP1\OOP1\bin\Debug\net5.0\OOP1.dll
+C:\C#KAMP\KampIntro\OOP1\OOP1\bin\Debug\net5.0\ref\OOP1.dll
+C:\C#KAMP\KampIntro\OOP1\OOP1\bin\Debug\net5.0\OOP1.pdb
+C:\C#KAMP\KampIntro\OOP1\OOP1\obj\Debug\net5.0\OOP1.csproj.AssemblyReference.cache
+C:\C#KAMP\KampIntro\OOP1\OOP1\obj\Debug\net5.0\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#KAMP\KampIntro\OOP1\OOP1\obj\Debug\net5.0\OOP1.AssemblyInfoInputs.cache
+C:\C#KAMP\KampIntro\OOP1\OOP1\obj\Debug\net5.0\OOP1.AssemblyInfo.cs
+C:\C#KAMP\KampIntro\OOP1\OOP1\obj\Debug\net5.0\OOP1.csproj.CoreCompileInputs.cache
+C:\C#KAMP\KampIntro\OOP1\OOP1\obj\Debug\net5.0\OOP1.dll
+C:\C#KAMP\KampIntro\OOP1\OOP1\obj\Debug\net5.0\ref\OOP1.dll
+C:\C#KAMP\KampIntro\OOP1\OOP1\obj\Debug\net5.0\OOP1.pdb
+C:\C#KAMP\KampIntro\OOP1\OOP1\obj\Debug\net5.0\OOP1.genruntimeconfig.cache
